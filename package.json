@@ -1,0 +1,11 @@
+{
+  "name": "basecontroller-libs",
+  "version": "0.1.0",
+  "description": "Some usefull libs used by basecontroller",
+  "main": "main.js",
+  "repository": "git://github.com/AgoraTech/basecontroller-libs.git",
+  "author": {
+    "name": "Agora SA"
+  },
+  "license": "BSD"
+}
